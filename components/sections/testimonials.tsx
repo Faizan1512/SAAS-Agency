@@ -5,7 +5,7 @@ import { Quote, Play } from 'lucide-react';
 const testimonials = [
   {
     quote:
-      'FaizanTech provides great design and has a great sense of user experience and aesthetics. They deliver on time and is an overall great communicator. I highly recommend working with them.',
+      'DigiMEC provides great design and has a great sense of user experience and aesthetics. They deliver on time and is an overall great communicator. I highly recommend working with them.',
     name: 'Mara Nikolic',
     company: 'Mara99',
     image: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=200',
@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     quote:
-      'FaizanTech transformed how we handle payments globally. Their AI systems reduced our processing time dramatically and the results speak for themselves.',
+      'DigiMEC transformed how we handle payments globally. Their AI systems reduced our processing time dramatically and the results speak for themselves.',
     name: 'David Strebinger',
     company: 'Paywith',
     image: 'https://images.pexels.com/photos/3760613/pexels-photo-3760613.jpeg?auto=compress&cs=tinysrgb&w=200',
@@ -27,7 +27,7 @@ const testimonials = [
   },
   {
     quote:
-      'Excellent development services! I recently had the pleasure of working with FaizanTech on a fintech development project, and I must say that I am thoroughly impressed with the level of service that I received. Really great! Thanks.',
+      'Excellent development services! I recently had the pleasure of working with DigiMEC on a fintech development project, and I must say that I am thoroughly impressed with the level of service that I received. Really great! Thanks.',
     name: 'Leon Dapoz',
     company: 'Evvvolution',
     image: 'https://images.pexels.com/photos/3760254/pexels-photo-3760254.jpeg?auto=compress&cs=tinysrgb&w=200',
@@ -48,21 +48,21 @@ const testimonials = [
   },
   {
     quote:
-      'FaizanTech has an incredible remote culture. It really makes working together easy.',
+      'DigiMEC has an incredible remote culture. It really makes working together easy.',
     name: 'Harbik Davidyan',
     company: 'Webk Agency',
     image: 'https://images.pexels.com/photos/3760253/pexels-photo-3760253.jpeg?auto=compress&cs=tinysrgb&w=200',
   },
   {
     quote:
-      'FaizanTech is clearly the best dev agency I have worked with. The project went smoothly, and we\'re happy with the outcome!',
+      'DigiMEC is clearly the best dev agency I have worked with. The project went smoothly, and we\'re happy with the outcome!',
     name: 'Kam Malik',
     company: 'LeadSense',
     image: 'https://images.pexels.com/photos/3760262/pexels-photo-3760262.jpeg?auto=compress&cs=tinysrgb&w=200',
   },
   {
     quote:
-      'Working with FaizanTech is always great! We are working with them for over 2 years now and the experience is just out of this planet.',
+      'Working with DigiMEC is always great! We are working with them for over 2 years now and the experience is just out of this planet.',
     name: 'Vincent Arrouet',
     company: 'Sunology',
     image: 'https://images.pexels.com/photos/3760260/pexels-photo-3760260.jpeg?auto=compress&cs=tinysrgb&w=200',

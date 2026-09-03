@@ -55,7 +55,7 @@ export function Hero() {
               className="mt-6 max-w-xl text-lg text-muted-foreground text-pretty animate-fade-up"
               style={{ animationDelay: '0.2s' }}
             >
-              FaizanTech is a software agency delivering production-ready mobile
+              DigiMEC is a software agency delivering production-ready mobile
               and web applications with AI built in from day one — from
               intelligent automation to full-stack product engineering.
             </p>
@@ -108,7 +108,7 @@ export function Hero() {
               <div className="relative overflow-hidden rounded-2xl border border-border bg-card shadow-2xl">
                 <img
                   src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=900"
-                  alt="Web application dashboard built by FaizanTech"
+                    alt="Web application dashboard built by DigiMEC"
                   className="h-full w-full object-cover"
                   loading="eager"
                 />
@@ -120,7 +120,7 @@ export function Hero() {
                   <div className="overflow-hidden rounded-[1.5rem] border-2 border-border bg-card shadow-2xl">
                   <img
                     src="https://images.pexels.com/photos/6078120/pexels-photo-6078120.jpeg?auto=compress&cs=tinysrgb&w=400"
-                    alt="Mobile app built by FaizanTech"
+                    alt="Mobile app built by DigiMEC"
                     className="h-full w-full object-cover"
                     loading="lazy"
                   />

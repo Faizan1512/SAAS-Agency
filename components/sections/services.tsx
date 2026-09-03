@@ -69,7 +69,7 @@ export function Services() {
           </h2>
           <p className="mt-4 text-lg text-muted-foreground text-pretty">
             From mobile apps to web platforms to AI-powered automation,
-            FaizanTech covers the full spectrum of modern software development.
+            DigiMEC covers the full spectrum of modern software development.
           </p>
         </div>
 

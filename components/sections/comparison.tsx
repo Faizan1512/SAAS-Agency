@@ -3,15 +3,15 @@
 import { Check, X, Minus } from 'lucide-react';
 
 const rows = [
-  { feature: 'Time to first deployment', faizantech: '2–4 weeks', traditional: '3–6 months' },
-  { feature: 'AI-first approach', faizantech: 'Built in from day one', traditional: 'Bolted on later' },
-  { feature: 'Weekly demos & feedback loops', faizantech: true, traditional: false },
-  { feature: 'Direct access to the developer', faizantech: true, traditional: false },
-  { feature: 'Fixed-scope pricing', faizantech: true, traditional: false },
-  { feature: 'Post-launch optimization', faizantech: '30+ days included', traditional: 'Extra retainer' },
-  { feature: 'Cloud security hardening', faizantech: true, traditional: 'minus' },
-  { feature: 'Mobile + web + AI in one team', faizantech: true, traditional: false },
-  { feature: 'Code & architecture ownership', faizantech: true, traditional: false },
+  { feature: 'Time to first deployment', digimec: '2–4 weeks', traditional: '3–6 months' },
+  { feature: 'AI-first approach', digimec: 'Built in from day one', traditional: 'Bolted on later' },
+  { feature: 'Weekly demos & feedback loops', digimec: true, traditional: false },
+  { feature: 'Direct access to the developer', digimec: true, traditional: false },
+  { feature: 'Fixed-scope pricing', digimec: true, traditional: false },
+  { feature: 'Post-launch optimization', digimec: '30+ days included', traditional: 'Extra retainer' },
+  { feature: 'Cloud security hardening', digimec: true, traditional: 'minus' },
+  { feature: 'Mobile + web + AI in one team', digimec: true, traditional: false },
+  { feature: 'Code & architecture ownership', digimec: true, traditional: false },
 ];
 
 function Cell({ value }: { value: string | boolean }) {
@@ -47,7 +47,7 @@ export function Comparison() {
     <section className="relative py-24 lg:py-32">
       <div className="mx-auto max-w-5xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
-          <p className="text-sm font-medium text-primary">Why FaizanTech</p>
+          <p className="text-sm font-medium text-primary">Why DigiMEC</p>
           <h2 className="mt-3 font-display text-3xl font-semibold tracking-tight text-balance sm:text-4xl lg:text-5xl">
             Not just another dev shop.
           </h2>
@@ -64,7 +64,7 @@ export function Comparison() {
               <span className="text-sm font-medium text-muted-foreground">Feature</span>
             </div>
             <div className="border-l border-border bg-primary/5 p-6 text-center">
-              <span className="font-display text-base font-semibold text-primary">FaizanTech</span>
+              <span className="font-display text-base font-semibold text-primary">DigiMEC</span>
             </div>
             <div className="border-l border-border p-6 text-center">
               <span className="text-sm font-medium text-muted-foreground">Traditional agencies</span>
@@ -79,7 +79,7 @@ export function Comparison() {
             >
               <div className="p-5 text-sm font-medium">{row.feature}</div>
               <div className="border-l border-border bg-primary/5 p-5 text-center">
-                <Cell value={row.faizantech} />
+                <Cell value={row.digimec} />
               </div>
               <div className="border-l border-border p-5 text-center">
                 <Cell value={row.traditional} />

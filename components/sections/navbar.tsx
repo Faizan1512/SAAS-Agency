@@ -36,7 +36,7 @@ export function Navbar() {
             <Sparkles className="h-4 w-4 text-primary" />
           </div>
           <span className="font-display text-lg font-semibold tracking-tight">
-            FaizanTech
+            DigiMEC
           </span>
         </a>
 
